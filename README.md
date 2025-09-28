@@ -1,6 +1,6 @@
 # log10-asm
 
-Un semplice programma scritto in Assembly che calcola il logaritmo in base 10 di un numero.
+Un semplice programma scritto in MiPS Assembly che calcola il logaritmo in base 10 di un numero.
 
 ## Descrizione
 Questo progetto implementa un algoritmo per calcolare il logaritmo in base 10 di un numero reale utilizzando Assembly.  
